@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guoyao202212-ux.github.io/yaoguo-travel-planner/sitemap.xml
